@@ -1,14 +1,16 @@
 {
-    "name": "root/silex-jwt",
+    "name": "cleider87/silex-jwt",
     "description": "Implementación de JWT para Silex 2.0",
     "license": "MIT",
     "authors": [
         {
-            "name": "Cleider",
+            "name": "Cleider Herrera",
             "email": "cleider87@gmail.com"
         }
     ],
     "require": {
-        "silex/silex": "^2.2"
+        "silex/silex": "^2.2",
+        "firebase/php-jwt": "^5.0",
+        "symfony/security": "^3.3"
     }
 }
