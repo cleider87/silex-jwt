@@ -1,2 +1,2 @@
 # Silex JWT
-Implementación de JWT para Silex2.0
+Implementación de JWT para Silex2.2
